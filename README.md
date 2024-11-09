@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 Hey There, You're checking Mohammad Mahdi Rahat's GitHub.
 
-I am studying **Computer Engineering** at Shahid Beheshti University.
+I studied **Computer Engineering** at Shahid Beheshti University and am learning AI-Robotics at khajeh nasir toosi university of technology.
 
 I have experience in **Game Design** and **developement** and looking forward to working on FUN games
 
